@@ -25,7 +25,7 @@ release.properties
 .idea/
 *.ipr
 *.iws
-out/
+out/  
 .idea_modules/
 
 ##########################
